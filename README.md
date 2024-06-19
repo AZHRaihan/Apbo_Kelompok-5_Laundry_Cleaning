@@ -1,4 +1,4 @@
-# Nama Kelompok:
+![Tracking page](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/40fa474b-d46b-436a-a53d-f1f729ac7dae)# Nama Kelompok:
 1. Sulis Afryanti Lubis (4522210024)
 2. Nadiyah Qasamah (4522210046)
 3. Mohammad Raihan Azhar (4522210048)
@@ -19,6 +19,24 @@ Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang tela
 
 # Class Diagram
 ![apbo DCRev drawio](https://github.com/AZHRaihan/Apbo_Laundry_Cleaning/assets/145973780/f74d9d32-a5be-4543-a560-65ec5e58f6c6)
+
+# Wireframe
+## Login
+![Login](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/b429c24b-2f68-4052-bcae-2bb8c4f645df)
+## Daftar
+![Daftar](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/6a0dbdaf-db59-4c32-8265-22df0c8b7083)
+## Halaman Utama
+![Halaman utama dan bookin](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/d77fee69-3ba0-4937-9bf2-713a8761d320)
+## Order Details
+![Order Details](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/e5afc0cf-4533-48fa-a390-3d2f4b9a4c37)
+## Order Transaksi
+![Order Transaksi](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/b338f5e4-31d7-4b56-8381-039464aa39da)
+## Pesanan
+![Pesanan](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/f0ee8499-9e80-4413-892c-d7981aa9cd00)
+## Status Page
+![Status Page](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/bfbe2486-1c83-431c-8c61-3f831b0168d0)
+## Tracking
+![Tracking page](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/1d766ec8-12b2-4720-bf6d-36ab8a6b6021)
 
 # Link Wireframe FIGMA
 https://www.figma.com/file/ovHdqumGDqVwBBynxrCkCm/Untitled?type=design&node-id=0%3A1&mode=design&t=fWv6w8FNJto0tbc7-1
