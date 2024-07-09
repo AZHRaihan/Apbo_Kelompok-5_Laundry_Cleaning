@@ -7,10 +7,10 @@
 # Apbo_Laundry_Cleaning
 Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang telah dititipkan oleh customer, dengan memiliki jenis cucian yang telah ditetapkan oleh pihak penyedia jasa dan waktu yang telah ditentukan. Namun pada kenyataan nya penyedia jasa sering kali melakukan kesalahan pada barang ataupun pakaian yang telah dititipkan oleh customer seperti adanya cacat, pudar, atau hilangnya pada pakaian maupun barang. Oleh karena itu, dibutuhkan nya sebuah sistem informasi untuk meminimalisir terjadi nya ketidakpuasan pelanggan terhadap mitra dan menghindari seperti permasalahan yang sering terjadi dan meningkatkan efisiensi antar pelanggan dan customer. 
 # Use case dan masing-masing aktor 
-![UseCase drawio](https://github.com/AZHRaihan/Apbo_Laundry_Cleaning/assets/145907307/71b60174-c14a-4f4a-9b6f-43eb4c44a122)
+![UseCase drawio (1)](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145907307/79533a4c-19c2-42f9-a82d-911af963eb0c)
 1. Admin
 2. Karyawan
-3. Pelanggan
+3. Customer
 # Nota Bisnis Laundry Cleaning
 ![WhatsApp Image 2024-04-23 at 19 40 35](https://github.com/AZHRaihan/Apbo_Laundry_Cleaning/assets/145973780/44cf4ca5-8447-4243-8b04-cd19cc36932b)
 
