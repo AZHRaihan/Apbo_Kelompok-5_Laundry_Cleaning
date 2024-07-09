@@ -49,7 +49,7 @@ alangkah lebih baik jika nota pelanggan pun dapat dijadikan nota digital sehingg
 https://youtu.be/Ld8P0akYb-0?si=qVqd6H4-dMjuH57p
 
 # Activity Diagram
-![Activity drawio (1)](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145907307/b139b039-a4d7-44a9-8d56-7521e699c7b5)
+![Activity drawio (1) drawio](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145907307/4797f041-9687-4264-a92b-9b558220aeb1)
 
 # Sequence Diagram
 ## Pelanggan
