@@ -18,7 +18,7 @@ Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang tela
 ![Entity Relationship Diagram](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/50425dbc-ac37-4359-9bf7-05dc937b05ac)
 
 # Class Diagram
-![apbo DCRev drawio](https://github.com/AZHRaihan/Apbo_Laundry_Cleaning/assets/145973780/f74d9d32-a5be-4543-a560-65ec5e58f6c6)
+![ClassDiagram](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145907307/d94dcfca-8659-4c28-b182-86cb721b7440)
 
 # Activity Diagram
 ![Activity drawio (1) drawio](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145907307/4797f041-9687-4264-a92b-9b558220aeb1)
@@ -58,5 +58,3 @@ alangkah lebih baik jika nota pelanggan pun dapat dijadikan nota digital sehingg
 
 # Link Presentasi Youtube
 https://youtu.be/Ld8P0akYb-0?si=qVqd6H4-dMjuH57p
-
-
