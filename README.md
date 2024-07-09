@@ -6,6 +6,12 @@
 5. Hamdan Dzulfikar Makarim (4522210108)
 # Apbo_Laundry_Cleaning
 Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang telah dititipkan oleh customer, dengan memiliki jenis cucian yang telah ditetapkan oleh pihak penyedia jasa dan waktu yang telah ditentukan. Namun pada kenyataan nya penyedia jasa sering kali melakukan kesalahan pada barang ataupun pakaian yang telah dititipkan oleh customer seperti adanya cacat, pudar, atau hilangnya pada pakaian maupun barang. Oleh karena itu, dibutuhkan nya sebuah sistem informasi untuk meminimalisir terjadi nya ketidakpuasan pelanggan terhadap mitra dan menghindari seperti permasalahan yang sering terjadi dan meningkatkan efisiensi antar pelanggan dan customer. 
+
+# Requirement Prima Laundry
+- Saat mengantar baju pelanggan yang sudah dilaundry, tertukar oleh pelanggan lain.
+- Baju Pelanggan menjadi pudar atau pucat dikarenakan tidak menggunakan pemutih, pewangi yang sesuai untuk bahan pakaian.
+- Baju Pelanggan hilang, yang dikarenakan kelalaian
+- Membutuhkan invoice digital yang dapat diprint
 # Use case dan masing-masing aktor 
 ![UseCase drawio](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145907307/26a85246-0658-44ef-9426-027e09d88ed6)
 1. Admin
