@@ -24,7 +24,7 @@ Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang tela
 ![Erd (Entity Relationship Diagram)](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/d6f9fd9b-93e1-4589-97ad-424130b8fe40)
 
 # Class Diagram
-![ClassDiagram drawio](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145907307/25a25f4e-e460-46dd-857b-1b1b252dffeb)
+![ClassDiagram drawio (1)](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145907307/4bfd3421-80d8-4915-ae62-a6ab61d2f850)
 
 # Activity Diagram
 ![Activity drawio (1) drawio](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145907307/4797f041-9687-4264-a92b-9b558220aeb1)
