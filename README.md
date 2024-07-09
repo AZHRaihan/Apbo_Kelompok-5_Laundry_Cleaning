@@ -40,22 +40,33 @@ Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang tela
 ![sequence Diagram Admin APBO drawio](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/ffc06136-3d59-4a43-9718-cf70eba777a4)
 
 # Wireframe
-## Login
-![Login](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/b429c24b-2f68-4052-bcae-2bb8c4f645df)
-## Daftar
-![Daftar](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/6a0dbdaf-db59-4c32-8265-22df0c8b7083)
-## Halaman Utama
-![Halaman utama dan bookin](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/d77fee69-3ba0-4937-9bf2-713a8761d320)
-## Order Details
-![Order Details](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/e5afc0cf-4533-48fa-a390-3d2f4b9a4c37)
-## Order Transaksi
-![Order Transaksi](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/b338f5e4-31d7-4b56-8381-039464aa39da)
-## Pesanan
-![Pesanan](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/f0ee8499-9e80-4413-892c-d7981aa9cd00)
-## Status Page
-![Status Page](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/bfbe2486-1c83-431c-8c61-3f831b0168d0)
-## Tracking
-![Tracking page](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/1d766ec8-12b2-4720-bf6d-36ab8a6b6021)
+
+![Daftar](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/42b75ae7-bf1f-472d-8cd3-2633ed30c5a2)
+
+
+![login](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/0b3178ea-d75c-4113-bd8e-99cb54e5e739)
+
+
+![Home](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/403ee4ae-71a1-4c07-a290-3b35e907b28a)
+
+
+![Pemesanan 1](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/5904271d-1c5f-4f14-bc7c-95dae002de63)
+
+
+![Pemesanan 2](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/83b5dcb0-b44e-4214-82bd-a13a0bbe53b3)
+
+
+![Pemsanan 3](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/fc22642c-ee1d-4fed-b18c-daec0cddf9ac)
+
+
+![Payment Successful](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/be749f5c-9d2b-4190-943b-79f627e43612)
+
+
+![Tracking Pesanan](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/bb2d0388-fd4a-4d05-8186-1027cf4f485c)
+
+
+![Page Profile](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/25653b71-8654-4342-b0d3-a36aa2882db4)
+
 
 # Link Wireframe FIGMA
 https://www.figma.com/file/ovHdqumGDqVwBBynxrCkCm/Untitled?type=design&node-id=0%3A1&mode=design&t=fWv6w8FNJto0tbc7-1
