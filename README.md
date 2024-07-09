@@ -1,4 +1,4 @@
-![Mockup_Transaksi](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/73eeb3e5-8dfd-48a6-b410-f51bb02a6dc8)# Nama Kelompok:
+# Nama Kelompok:
 1. Sulis Afryanti Lubis (4522210024)
 2. Nadiyah Qasamah (4522210046)
 3. Mohammad Raihan Azhar (4522210048)
