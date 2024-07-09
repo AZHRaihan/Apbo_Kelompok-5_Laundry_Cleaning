@@ -1,4 +1,4 @@
-# Nama Kelompok:
+![Mockup_Transaksi](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/73eeb3e5-8dfd-48a6-b410-f51bb02a6dc8)# Nama Kelompok:
 1. Sulis Afryanti Lubis (4522210024)
 2. Nadiyah Qasamah (4522210046)
 3. Mohammad Raihan Azhar (4522210048)
@@ -56,11 +56,11 @@ Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang tela
 ## Transaksi
 ![Pemesanan 2](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/83b5dcb0-b44e-4214-82bd-a13a0bbe53b3)
 
-## Transaksi
-![Pemsanan 3](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/fc22642c-ee1d-4fed-b18c-daec0cddf9ac)
-
 ## Payment Successful
 ![Payment Successful](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/be749f5c-9d2b-4190-943b-79f627e43612)
+
+## Pesanan
+![Pesanan](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/5eaeb4e9-2804-4423-963b-5765444e9de0)
 
 ## Tracking
 ![Tracking Pesanan](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/bb2d0388-fd4a-4d05-8186-1027cf4f485c)
@@ -68,8 +68,38 @@ Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang tela
 ## Page Profile
 ![Page Profile](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/25653b71-8654-4342-b0d3-a36aa2882db4)
 
+# Mockup
 
-# Link Wireframe FIGMA
+## Daftar
+![Mockup_Daftar](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/eee29391-91b0-410e-8e99-c1edfc20252b)
+
+
+## Login
+![Mockup_Login](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/54621d74-d394-40d6-8ac7-cc7dd7ab187d)
+
+## Homepage
+![Mockup_Homepage](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/a57fe023-1c27-47ec-80b0-eec99717e6bd)
+
+## Pemesanan
+![Mockup Pemesanan](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/06fceb82-4903-4689-8085-5d57b74493a0)
+
+## Transaksi
+![Mockup_Transaksi](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/7e9b0bea-6530-40bb-8eff-d41738a7984e)
+
+## Payment Successful
+![Mockup_Transaksi 2](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/f5db83f5-c15d-4178-b2af-ca04cde46601)
+
+## Pesanan
+![Mockup_Pesanan](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/3dfaa3a6-d2d6-4326-8aa4-f41c836c1cfc)
+
+## Tracking
+![Mockupo_Tracking](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/ef3842c5-b18f-45d3-8957-da05f4d5bf78)
+
+## Page Profile
+![Mockup_Profile](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/e5bf61f6-5b73-47ff-ada5-ec9358f1a19c)
+
+
+# Link Wireframe dan Mockup FIGMA
 https://www.figma.com/file/ovHdqumGDqVwBBynxrCkCm/Untitled?type=design&node-id=0%3A1&mode=design&t=fWv6w8FNJto0tbc7-1
 
 # Kendala dalam Jasa Laundry 
