@@ -41,30 +41,31 @@ Jasa Laundry merupakan pengelola jasa dalam mencuci pakaian dan barang yang tela
 
 # Wireframe
 
+## Daftar
 ![Daftar](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/42b75ae7-bf1f-472d-8cd3-2633ed30c5a2)
 
-
+## Login
 ![login](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/0b3178ea-d75c-4113-bd8e-99cb54e5e739)
 
-
+## Homepage
 ![Home](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/403ee4ae-71a1-4c07-a290-3b35e907b28a)
 
-
+## Pemesanan
 ![Pemesanan 1](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/5904271d-1c5f-4f14-bc7c-95dae002de63)
 
-
+## Transaksi
 ![Pemesanan 2](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/83b5dcb0-b44e-4214-82bd-a13a0bbe53b3)
 
-
+## Transaksi
 ![Pemsanan 3](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/fc22642c-ee1d-4fed-b18c-daec0cddf9ac)
 
-
+## Payment Successful
 ![Payment Successful](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/be749f5c-9d2b-4190-943b-79f627e43612)
 
-
+## Tracking
 ![Tracking Pesanan](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/bb2d0388-fd4a-4d05-8186-1027cf4f485c)
 
-
+## Page Profile
 ![Page Profile](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/25653b71-8654-4342-b0d3-a36aa2882db4)
 
 
