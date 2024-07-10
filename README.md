@@ -36,7 +36,7 @@ alangkah lebih baik jika nota pelanggan pun dapat dijadikan nota digital sehingg
 # Sequence Diagram
 ## Pelanggan
 ![Sequence Diagram pelanggan APBO drawio](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/7dfe3ef1-e020-412b-84f1-9aa6d2d8d6a6)
-## Karyawan
+## Pegawai
 ![Sequence Diagram Karyawan APBO drawio (1)](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/a214fcb7-e217-4302-aa6d-5bc9210d509b)
 ## Admin
 ![sequence Diagram Admin APBO drawio](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/ffc06136-3d59-4a43-9718-cf70eba777a4)
