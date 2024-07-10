@@ -71,6 +71,10 @@ alangkah lebih baik jika nota pelanggan pun dapat dijadikan nota digital sehingg
 ## Page Profile
 ![Page Profile](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/25653b71-8654-4342-b0d3-a36aa2882db4)
 
+## Customer Service
+![Customer Service](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/fb3edae1-4a13-4037-9888-ec4a4b66b700)
+
+
 # Mockup
 
 ## Daftar
@@ -100,6 +104,10 @@ alangkah lebih baik jika nota pelanggan pun dapat dijadikan nota digital sehingg
 
 ## Page Profile
 ![Mockup_Profile](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/e5bf61f6-5b73-47ff-ada5-ec9358f1a19c)
+
+## Customer Service
+![Mockup_ Customer Service](https://github.com/AZHRaihan/Apbo_Kelompok-5_Laundry_Cleaning/assets/145973780/ae889666-f128-4170-b245-482efe9886d2)
+
 
 
 # Link Wireframe dan Mockup FIGMA
